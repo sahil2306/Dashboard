@@ -1,0 +1,2 @@
+graft src/timmins/templates
+graft src/timmins/static
